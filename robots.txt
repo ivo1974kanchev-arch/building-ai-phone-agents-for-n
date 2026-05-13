@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://building-ai-phone-agents-for-non-us-mark-3pnyg5mxu.vercel.app/sitemap.xml
